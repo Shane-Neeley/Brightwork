@@ -1,0 +1,2 @@
+Sigmoidal Endpoint	 EC50 = 2.800	R-squared = 0.953
+Polynomal Endpoint	 EC50 = 3.100	R-squared = 0.938
